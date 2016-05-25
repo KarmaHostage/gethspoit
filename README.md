@@ -1,4 +1,4 @@
-#Gethsploit
+Gethsploit
 ====
 
 gethsploit is a set of python scripts to enumerate ethereum peers which have rpc-ports enabled.
